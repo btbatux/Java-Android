@@ -1,7 +1,5 @@
 package com.yeniders.firstapplicationtest;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.os.Bundle;
@@ -16,6 +14,11 @@ public class MainActivity extends AppCompatActivity {
 
     EditText edt_fiyat, edt_kdv;
     Button btn_hesapla;
+    //Context context = this;
+    //Context context = this;
+    //Context context = this;
+    //Context context = this;
+    //Context context = this;
     //Context context = this;
 
     @Override
